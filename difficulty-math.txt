@@ -1,0 +1,12 @@
+Each modifier has a weight by colour difficulty,
+Green: 1
+Blue: 2
+Purple: 3
+Red: 4
+To calculate the challenge difficulty, add the weights of each modifier, then divide by 3.
+
+The colour of the embed shall be determined by the category that the number falls into below,
+Green: 1.0-1.66
+Blue: 2-2.33
+Purple: 2.66-3
+Red: 3.33-4

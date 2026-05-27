@@ -1,0 +1,19 @@
+{
+  "embeds": [
+    {
+      "title": "Daily Challenge (YYYY-MM-DD)",
+      "description": "Green - 2ECC70\nBlue - 3498DB\nPurple - 9C59B6\nRed - E74D3C",
+      "fields": [
+        {
+          "name": "The Mission (Stealth/Loud)",
+          "value": "• Modifier 1\n• Modifier 2\n• Modifier 3"
+        }
+      ],
+      "footer": {
+        "text": "Challenges update at midnight Eastern Time."
+      },
+      "color": 15158588
+    }
+  ],
+  "components": []
+}

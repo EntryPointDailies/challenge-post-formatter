@@ -1,0 +1,6 @@
+mission = input("Mission: ")
+tactic = input("Tactic: ")
+mod1 = input("Modifier 1: ")
+mod2 = input("Modifier 2: ")
+mod3 = input("Modifier 3: ")
+print(mission," (",tactic,")","\n• ",mod1,"\n• ",mod2,"\n• ",mod3,sep="")

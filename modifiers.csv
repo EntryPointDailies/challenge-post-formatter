@@ -1,0 +1,47 @@
+Modifier,Colour,Tactic,Weight
+Misplaced Gear,Green,Stealth,1
+No Aegis Armor,Green,Loud,1
+Boarded Up,Green,Loud,1
+Fog,Green,Both,1
+No Suppressors,Green,Stealth,1
+No Safecracking,Green,Stealth,1
+Weapon Scanners,Blue,Stealth,2
+No Scrambler,Blue,Stealth,2
+Bloodless,Blue,Stealth,2
+Unskilled,Blue,Both,2
+Small Arms Only,Blue,Loud,2
+Criminal Arsenal,Blue,Loud,2
+No Hybrid Classes,Blue,Both,2
+Cascade Arsenal,Blue,Both,2
+Flashbang Frenzy,Blue,Loud,2
+Reinforced Doors,Blue,Both,2
+Heavy Bags,Blue,Stealth,2
+Armera Arsenal,Blue,Loud,2
+No Equipment Bags,Blue,Loud,2
+Reinforced Locks,Blue,Both,2
+Glass Cannon,Blue,Loud,2
+Mandatory Headshots,Blue,Loud,2
+No Interrogation,Blue,Stealth,2
+Extra Cameras,Blue,Stealth,2
+No Heavy Armor,Blue,Loud,2
+Unintimidating,Purple,Stealth,3
+Weaker Medkits,Purple,Loud,3
+Hidden UI,Purple,Both,3
+Faster Detection,Purple,Stealth,3
+Reinforced Cameras,Purple,Stealth,3
+Aegis Academy,Purple,Loud,3
+Flashbang Revenge,Purple,Loud,3
+One Shot,Purple,Loud,3
+Hidden Detection Bars,Purple,Stealth,3
+No Lockpicks,Purple,Stealth,3
+Inexperienced,Purple,Both,3
+Fifteen Minutes,Purple,Stealth,3
+Less Health,Purple,Loud,3
+No Explosives,Red,Loud,4
+Takedown Limit,Red,Stealth,4
+Shield Swarm,Red,Loud,4
+Explosive Flashbangs,Red,Loud,4
+No Knockouts,Red,Stealth,4
+No Moving Bodies,Red,Stealth,4
+No Disguise,Red,Stealth,4
+Explosive Revenge,Red,Loud,4
